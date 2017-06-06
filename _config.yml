@@ -1,0 +1,10 @@
+title: Ghi chép tổng hợp
+url: "http://ankitsultana.com"
+baseurl: "/"
+
+markdown: kramdown
+
+tracking_id: #
+sass:
+    style: compressed
+    sass_dir: _sass
