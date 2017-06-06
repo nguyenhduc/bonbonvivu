@@ -9,4 +9,4 @@ by Duc Nguyen
 
 # #2017
 
-* [Ý tưởng cơ bản cho một hệ thống tracking](/posts/y-tuong-co-ban-cho-mot-he-thong-tracking)
+* [Ý tưởng cơ bản cho một hệ thống tracking user đơn giản](/posts/y-tuong-co-ban-cho-mot-he-thong-tracking)
