@@ -9,4 +9,4 @@ by Duc Nguyen
 
 # #2017
 
-* [Thơ Xuân Diệu](/posts/van-vo)
+* [Ý tưởng cơ bản cho một hệ thống tracking](/posts/y-tuong-co-ban-cho-mot-he-thong-tracking)
