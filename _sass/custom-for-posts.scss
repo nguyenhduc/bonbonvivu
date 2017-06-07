@@ -1,0 +1,12 @@
+.content {        
+    .muc-do-hieu-biet-ruby {
+        img {
+            margin-left: calc(-1 * ((50vw - 50%)));
+            width: 70vw;
+            transform: translateX(calc(50vw - 50%));
+            clear: both;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    }
+}
